@@ -39,46 +39,16 @@
         "kms": 4881,
         "Description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
         "price": 3087414
-    }, {
-        "id": 6,
-        "brand": "Pontiac",
-        "type": "Manual",
-        "year": 1990,
-        "kms": 1084,
-        "Description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi.",
-        "price": 4422672
-    }, {
-        "id": 7,
-        "brand": "Oldsmobile",
-        "type":"Automated",
-        "year": 1997,
-        "kms": 3666,
-        "Description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.",
-        "price": 1259617
-    }, {
-        "id": 8,
-        "brand": "BMW",
-        "type": "Manual",
-        "year": 2006,
-        "kms": 3852,
-        "Description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu.",
-        "price": 280975
-    }, {
-        "id": 9,
-        "brand": "Toyota",
+    }],
+    "wishlisted_cars": [
+    {
+        "id": 5,
+        "brand": "Infiniti",
         "type": "Automated",
-        "year": 2000,
-        "kms": 1537,
-        "Description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",
-        "price": 2261733
-    }, {
-        "id": 10,
-        "brand": "Subaru",
-        "type": "Manual",
-        "year": 1992,
-        "kms": 2157,
-        "Description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
-        "price": 1992486
+        "year": 2012,
+        "kms": 4881,
+        "Description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+        "price": 3087414
     }]
 }
   
