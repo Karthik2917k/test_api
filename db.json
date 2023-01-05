@@ -5,7 +5,7 @@
   "type": "Grand Cherokee",
   "year": 1993,
   "kms": 4440,
-  "Description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+  "Description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id volutpat.",
   "price": 1591418
 }, {
   "id": 2,
@@ -13,7 +13,7 @@
   "type": "Continental Flying Spur",
   "year": 2012,
   "kms": 4871,
-  "Description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+  "Description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget.",
   "price": 330638
 }, {
   "id": 3,
@@ -45,7 +45,7 @@
   "type": "Trans Sport",
   "year": 1990,
   "kms": 1084,
-  "Description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+  "Description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi.",
   "price": 4422672
 }, {
   "id": 7,
@@ -53,7 +53,7 @@
   "type": "88",
   "year": 1997,
   "kms": 3666,
-  "Description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+  "Description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.",
   "price": 1259617
 }, {
   "id": 8,
@@ -61,7 +61,7 @@
   "type": "6 Series",
   "year": 2006,
   "kms": 3852,
-  "Description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+  "Description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu.",
   "price": 280975
 }, {
   "id": 9,
@@ -69,7 +69,7 @@
   "type": "Land Cruiser",
   "year": 2000,
   "kms": 1537,
-  "Description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+  "Description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",
   "price": 2261733
 }, {
   "id": 10,
