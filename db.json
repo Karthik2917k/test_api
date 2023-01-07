@@ -1,54 +1,7 @@
 {
-    "cars": [{
-        "id": 1,
-        "brand": "Jeep",
-        "type":  "Automated",
-        "year": 1993,
-        "kms": 4440,
-        "Description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id volutpat.",
-        "price": 1591418
-    }, {
-        "id": 2,
-        "brand": "Bentley",
-        "type": "Manual",
-        "year": 2012,
-        "kms": 4871,
-        "Description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget.",
-        "price": 330638
-    }, {
-        "id": 3,
-        "brand": "Subaru",
-        "type": "Automated",
-        "year": 1988,
-        "kms": 1601,
-        "Description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-        "price": 4566776
-    }, {
-        "id": 4,
-        "brand": "Chevrolet",
-        "type": "Manual",
-        "year": 1994,
-        "kms": 1312,
-        "Description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
-        "price": 2312744
-    }, {
-        "id": 5,
-        "brand": "Infiniti",
-        "type": "Automated",
-        "year": 2012,
-        "kms": 4881,
-        "Description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-        "price": 3087414
-    }],
-    "wishlisted_cars": [
-    {
-        "id": 5,
-        "brand": "Infiniti",
-        "type": "Automated",
-        "year": 2012,
-        "kms": 4881,
-        "Description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-        "price": 3087414
-    }]
+    "cars": [],
+    "wishlisted_cars":[],
+    "users":[],
+    "tasks":[]
 }
   
