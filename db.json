@@ -5,7 +5,7 @@
   "tasks": [],
   "dogs": [],
   "country": [
-    { "id": 1, "country": "Afghanistan", "city": "Kabul" },
+    { "id": 1, "country": "Afghanistan","city": "Kabul" },
     { "id": 2, "country": "Albania", "city": "Tirana" },
     { "id": 3, "country": "Algeria", "city": "Alger" },
     { "id": 4, "country": "American Samoa", "city": "Fagatogo" },
